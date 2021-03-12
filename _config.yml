@@ -30,7 +30,7 @@ twitter_username: moroney_caitlin
 github_username:  caitmmoroney
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
